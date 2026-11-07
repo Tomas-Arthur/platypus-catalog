@@ -1,4 +1,14 @@
 {
   "schema": 1,
-  "apps": []
+  "apps": [
+    {
+      "id": "robbery-101",
+      "name": "Robbery 101",
+      "description": "Cambriolage en coopération : infiltrez, volez, ressortez sans vous faire repérer.",
+      "kind": "game",
+      "accent": "#F0A04B",
+      "audience": [],
+      "releases": []
+    }
+  ]
 }
