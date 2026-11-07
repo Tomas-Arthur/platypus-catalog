@@ -26,5 +26,27 @@
         }
       ]
     }
-  ]
+  ],
+  "launcher": {
+    "version": "0.2.0",
+    "date": "2026-11-07T20:51:23.6618293+00:00",
+    "packages": [
+      {
+        "platform": "windows",
+        "url": "https://github.com/Tomas-Arthur/platypus-catalog/releases/download/platypus-launcher-v0.2.0/PlatypusLauncher-Windows.exe",
+        "sha256": "15883899707016c02e8a74f97349c42b01e21d3a5dd0f6d933ed8ec93237dc66",
+        "size": 48439640,
+        "exe": "",
+        "args": ""
+      },
+      {
+        "platform": "linux",
+        "url": "https://github.com/Tomas-Arthur/platypus-catalog/releases/download/platypus-launcher-v0.2.0/PlatypusLauncher-Linux.tar.gz",
+        "sha256": "25ee0b8e76353bd3b817cd9af2c21476330c64052723d95ca4391369f71bcf0a",
+        "size": 41149531,
+        "exe": "",
+        "args": ""
+      }
+    ]
+  }
 }
