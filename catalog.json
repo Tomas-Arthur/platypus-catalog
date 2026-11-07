@@ -8,7 +8,23 @@
       "kind": "game",
       "accent": "#F0A04B",
       "audience": [],
-      "releases": []
+      "releases": [
+        {
+          "version": "0.13.0",
+          "date": "2026-11-07T20:19:26.7907147+00:00",
+          "notes": "Première version distribuée par Platypus.\nBuild Windows actuel (jalon A1 : première caisse Blender).",
+          "packages": [
+            {
+              "platform": "windows",
+              "url": "https://github.com/Tomas-Arthur/platypus-catalog/releases/download/robbery-101-v0.13.0/robbery-101-0.13.0-windows.zip",
+              "sha256": "1a637864dea2ede31298df1dc0e6f3010198d65b77f515699347f7ebb50ce624",
+              "size": 71562271,
+              "exe": "Robbery101.exe",
+              "args": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
