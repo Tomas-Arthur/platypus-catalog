@@ -7,6 +7,7 @@
       "description": "Cambriolage en coopération : infiltrez, volez, ressortez sans vous faire repérer.",
       "kind": "game",
       "accent": "#F0A04B",
+      "surveys": [],
       "audience": [],
       "releases": [
         {
@@ -28,22 +29,22 @@
     }
   ],
   "launcher": {
-    "version": "0.3.1",
-    "date": "2026-11-08T08:57:01.3465105+00:00",
+    "version": "0.4.0",
+    "date": "2026-11-09T20:34:22.0683943+00:00",
     "packages": [
       {
         "platform": "windows",
-        "url": "https://github.com/Tomas-Arthur/platypus-catalog/releases/download/platypus-launcher-v0.3.1/PlatypusLauncher-Windows.exe",
-        "sha256": "2f3e23a5ce4490b7aeac0e6fbfaf6a4e62eca6c7752838ddf634e845c6ebd86f",
-        "size": 48449641,
+        "url": "https://github.com/Tomas-Arthur/platypus-catalog/releases/download/platypus-launcher-v0.4.0/PlatypusLauncher-Windows.exe",
+        "sha256": "d7979e0fdf9ff7d18c91dd114eb077e636d43df0d55d5cde51e3ee5de524b024",
+        "size": 48456021,
         "exe": "",
         "args": ""
       },
       {
         "platform": "linux",
-        "url": "https://github.com/Tomas-Arthur/platypus-catalog/releases/download/platypus-launcher-v0.3.1/PlatypusLauncher-Linux.tar.gz",
-        "sha256": "3c5bac5a4c298c6860203586ef1f8e6bcfe39b012a42d310415b2cff1bbbc712",
-        "size": 41161588,
+        "url": "https://github.com/Tomas-Arthur/platypus-catalog/releases/download/platypus-launcher-v0.4.0/PlatypusLauncher-Linux.tar.gz",
+        "sha256": "3638d198847ad64257296178437608452df0bece251ef4e43aeac9b1a267846c",
+        "size": 41166389,
         "exe": "",
         "args": ""
       }
