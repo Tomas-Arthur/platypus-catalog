@@ -45,6 +45,29 @@
       "audience": [],
       "releases": [
         {
+          "version": "0.1.2",
+          "date": "2026-11-10T17:20:07.8282068+00:00",
+          "notes": "Ajout d'un écran Comment jouer (règles du jeu), depuis l'écran de démarrage et la pause.",
+          "packages": [
+            {
+              "platform": "windows",
+              "url": "https://github.com/Tomas-Arthur/platypus-catalog/releases/download/plan-z-v0.1.2/plan-z-0.1.2-windows.zip",
+              "sha256": "8e91503c748fbba7ccd7e2831658e162770d9f1d70c787ff9417caa798630045",
+              "size": 75451673,
+              "exe": "PlanZ.exe",
+              "args": ""
+            },
+            {
+              "platform": "linux",
+              "url": "https://github.com/Tomas-Arthur/platypus-catalog/releases/download/plan-z-v0.1.2/plan-z-0.1.2-linux.zip",
+              "sha256": "6546f7bed46236eb779995d90ce782c2832bbe0c5552b7fca78d3a2d1601a9e2",
+              "size": 64713110,
+              "exe": "PlanZ.x86_64",
+              "args": ""
+            }
+          ]
+        },
+        {
           "version": "0.1.1",
           "date": "2026-11-10T17:14:37.5130558+00:00",
           "notes": "Premier prototype : la boucle complète (gestion, combat, exorcisme), écran de démarrage et menus pause.\nÉquilibrage provisoire.",
