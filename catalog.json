@@ -45,6 +45,29 @@
       "audience": [],
       "releases": [
         {
+          "version": "0.1.1",
+          "date": "2026-11-10T17:14:37.5130558+00:00",
+          "notes": "Premier prototype : la boucle complète (gestion, combat, exorcisme), écran de démarrage et menus pause.\nÉquilibrage provisoire.",
+          "packages": [
+            {
+              "platform": "windows",
+              "url": "https://github.com/Tomas-Arthur/platypus-catalog/releases/download/plan-z-v0.1.1/plan-z-0.1.1-windows.zip",
+              "sha256": "463daca540fca86ed1a2d23c7cd920d61a4740b3a0841ac900952c1a5e35cad2",
+              "size": 75447296,
+              "exe": "PlanZ.exe",
+              "args": ""
+            },
+            {
+              "platform": "linux",
+              "url": "https://github.com/Tomas-Arthur/platypus-catalog/releases/download/plan-z-v0.1.1/plan-z-0.1.1-linux.zip",
+              "sha256": "440b87aec961f3789464aca4e1e2e07acc1963e059fec7d198d531db0b3ad50b",
+              "size": 64708742,
+              "exe": "PlanZ.x86_64",
+              "args": ""
+            }
+          ]
+        },
+        {
           "version": "0.1.0",
           "date": "2026-11-10T06:49:18.919164+00:00",
           "notes": "Premier prototype : la boucle complète (gestion, combat, exorcisme).\nÉquilibrage provisoire.",
