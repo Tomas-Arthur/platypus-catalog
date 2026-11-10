@@ -27,6 +27,23 @@
           ]
         }
       ]
+    },
+    {
+      "id": "plan-z",
+      "name": "Plan Z",
+      "description": "Un ancien mafieux devenu faux prêtre. Gestion de ville et d'église façon Tropico, missions de combat vues de dessus, exorcismes en rythme. Prototype.",
+      "kind": "game",
+      "icon": "images/plan-z-icon.png",
+      "cover": "images/plan-z-cover.png",
+      "covers": [
+        "images/plan-z-cover-2.png",
+        "images/plan-z-cover-3.png"
+      ],
+      "accent": "#B8901F",
+      "category": "ia",
+      "surveys": [],
+      "audience": [],
+      "releases": []
     }
   ],
   "launcher": {
