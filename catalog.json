@@ -43,7 +43,31 @@
       "category": "ia",
       "surveys": [],
       "audience": [],
-      "releases": []
+      "releases": [
+        {
+          "version": "0.1.0",
+          "date": "2026-11-10T06:49:18.919164+00:00",
+          "notes": "Premier prototype : la boucle complète (gestion, combat, exorcisme).\nÉquilibrage provisoire.",
+          "packages": [
+            {
+              "platform": "windows",
+              "url": "https://github.com/Tomas-Arthur/platypus-catalog/releases/download/plan-z-v0.1.0/plan-z-0.1.0-windows.zip",
+              "sha256": "2f7eee2877892c45f7e0f257c48be30cec0cf3353ea4b962a387a852c0bab0f2",
+              "size": 75367362,
+              "exe": "PlanZ.exe",
+              "args": ""
+            },
+            {
+              "platform": "linux",
+              "url": "https://github.com/Tomas-Arthur/platypus-catalog/releases/download/plan-z-v0.1.0/plan-z-0.1.0-linux.zip",
+              "sha256": "5b10f75c9ef8906fe9cd3a5860621eb8f925b54e8f40a2d3151ccd2a1276bb81",
+              "size": 64631122,
+              "exe": "PlanZ.x86_64",
+              "args": ""
+            }
+          ]
+        }
+      ]
     }
   ],
   "launcher": {
