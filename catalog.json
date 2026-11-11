@@ -23,6 +23,14 @@
               "size": 75354477,
               "exe": "Robbery101.exe",
               "args": ""
+            },
+            {
+              "platform": "linux",
+              "url": "https://github.com/Tomas-Arthur/platypus-catalog/releases/download/robbery-101-v0.17.0/robbery-101-0.17.0-linux.zip",
+              "sha256": "05951c64cd69170fa325a02f9f4fb24ca705b673044a506629929f3ca85a8829",
+              "size": 64517790,
+              "exe": "Robbery101.x86_64",
+              "args": ""
             }
           ]
         },
