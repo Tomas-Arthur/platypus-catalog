@@ -117,22 +117,22 @@
     }
   ],
   "launcher": {
-    "version": "0.7.1",
-    "date": "2026-11-11T15:28:18.156179+00:00",
+    "version": "0.7.2",
+    "date": "2026-11-11T15:38:33.348148+00:00",
     "packages": [
       {
         "platform": "windows",
-        "url": "https://github.com/Tomas-Arthur/platypus-catalog/releases/download/platypus-launcher-v0.7.1/PlatypusLauncher-Windows.exe",
-        "sha256": "1703974b1ea821ad77662d367c4a17d92002f581a70515a78d0ed7476d6329ce",
-        "size": 48490804,
+        "url": "https://github.com/Tomas-Arthur/platypus-catalog/releases/download/platypus-launcher-v0.7.2/PlatypusLauncher-Windows.exe",
+        "sha256": "f404fbc0e3bad371cb60be17628d566cf0776a7087a0c8b81fee8a2a8da51d54",
+        "size": 48490803,
         "exe": "",
         "args": ""
       },
       {
         "platform": "linux",
-        "url": "https://github.com/Tomas-Arthur/platypus-catalog/releases/download/platypus-launcher-v0.7.1/PlatypusLauncher-Linux.tar.gz",
-        "sha256": "c2b59235d70b9aa00849e853a971d263ec7eaad00fc8eccff86965b90055cad2",
-        "size": 41199897,
+        "url": "https://github.com/Tomas-Arthur/platypus-catalog/releases/download/platypus-launcher-v0.7.2/PlatypusLauncher-Linux.tar.gz",
+        "sha256": "bc979d7e945ad7f8bca590f822fc8c0bd7ecc00d0f6c22c381dda00fb1c6d93a",
+        "size": 41200011,
         "exe": "",
         "args": ""
       }
