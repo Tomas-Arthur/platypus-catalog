@@ -64,7 +64,20 @@
       ],
       "accent": "#B8901F",
       "category": "ia",
-      "surveys": [],
+      "surveys": [
+        {
+          "id": "nom-du-jeu",
+          "title": "Quel nom pour Plan Z ?",
+          "description": "Plan Z est un nom provisoire : choisis celui que tu préfères.",
+          "url": "",
+          "choices": [
+            "Pray, Pay and Spray",
+            "Amen & Ammo",
+            "Pray & Pay"
+          ],
+          "kind": "vote"
+        }
+      ],
       "audience": [],
       "releases": [
         {
