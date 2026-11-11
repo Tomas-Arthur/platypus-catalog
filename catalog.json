@@ -12,6 +12,21 @@
       "audience": [],
       "releases": [
         {
+          "version": "0.17.0",
+          "date": "2026-11-11T17:41:46.7783188+00:00",
+          "notes": "Jalons 14 à 17 : les gardes voient (cône de vue, lumière) et entendent (bruit des pas).\nSoupçon et fouille (« ? » qui change de couleur), alerte et poursuite (« ! »).\nAssommer un garde par derrière avec F.",
+          "packages": [
+            {
+              "platform": "windows",
+              "url": "https://github.com/Tomas-Arthur/platypus-catalog/releases/download/robbery-101-v0.17.0/robbery-101-0.17.0-windows.zip",
+              "sha256": "5fc0b26b5a25e34701656cc69463bdd3622451544f9d6d735ef7c0301ef4ce8e",
+              "size": 75354477,
+              "exe": "Robbery101.exe",
+              "args": ""
+            }
+          ]
+        },
+        {
           "version": "0.13.0",
           "date": "2026-11-07T20:19:26.7907147+00:00",
           "notes": "Première version distribuée par Platypus.\nBuild Windows actuel (jalon A1 : première caisse Blender).",
