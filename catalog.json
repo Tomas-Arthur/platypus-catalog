@@ -160,5 +160,8 @@
         "args": ""
       }
     ]
+  },
+  "forms": {
+    "discord": "https://discord.com/api/webhooks/1570153203432038441/h5fTJLthmb9Gw_dM9_PIR1EzzLwHGGoTQ_WkPDoGOGtfDutU2-yc_XqAbkz2p-GtxsBc"
   }
 }
