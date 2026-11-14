@@ -68,6 +68,29 @@
       "audience": [],
       "releases": [
         {
+          "version": "0.4.0",
+          "date": "2026-11-14T21:57:22.859007+00:00",
+          "notes": "La voie mafieuse : trois types de racket (protection, tripot, contrebande), une armurerie payée en argent sale (silencieux, gilet pare-balles, fusil à pompe), deux nouveaux types de mission (nettoyer la zone, récupérer le butin) et le braquage des planques de la bande. Voie mafieuse rééquilibrée.\n",
+          "packages": [
+            {
+              "platform": "windows",
+              "url": "https://github.com/Tomas-Arthur/platypus-catalog/releases/download/plan-z-v0.4.0/plan-z-0.4.0-windows.zip",
+              "sha256": "7f0facdb5b261f90b4087eae1473231af900c49942d5346be4d602ef4b3c1b64",
+              "size": 75535997,
+              "exe": "PlanZ.exe",
+              "args": ""
+            },
+            {
+              "platform": "linux",
+              "url": "https://github.com/Tomas-Arthur/platypus-catalog/releases/download/plan-z-v0.4.0/plan-z-0.4.0-linux.zip",
+              "sha256": "c29f55b95f81cb3b0685f36c5aa278dbc0e7be93dcd73f574e69d801d7e853dd",
+              "size": 64797427,
+              "exe": "PlanZ.x86_64",
+              "args": ""
+            }
+          ]
+        },
+        {
           "version": "0.3.0",
           "date": "2026-11-14T16:37:28.7618911+00:00",
           "notes": "L'église s'agrandit : 3 niveaux, statue miraculeuse, crypte, bâtiments améliorables (jusqu'à 3 étoiles), et des vicaires qui prêchent pour toi.\n5 démons, 5 épreuves d'exorcisme : rythme, bluff, symboles, pluie de feu, rituel. À essayer depuis l'écran de démarrage (« Essayer un mini-jeu »).\nPactiser avec un démon se négocie (argent, pouvoir, informations) et rend ses épreuves suivantes plus faciles… mais ton âme s'alourdit.\nLa bande chassée de la ville revient. Corrections : un événement ne vole plus le clic quand tu poses un bâtiment.\n",
