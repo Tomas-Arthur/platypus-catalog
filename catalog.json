@@ -68,6 +68,29 @@
       "audience": [],
       "releases": [
         {
+          "version": "0.8.0",
+          "date": "2026-11-14T22:52:39.1004464+00:00",
+          "notes": "Grosse mise à jour : défense de l'église par vagues quand l'organisation se rapproche, sermon du dimanche (mini-jeu facultatif), confessions au confessionnal, carnet noir de secrets pour faire pression… et une voie cachée à découvrir en pactisant avec les démons.\n",
+          "packages": [
+            {
+              "platform": "windows",
+              "url": "https://github.com/Tomas-Arthur/platypus-catalog/releases/download/plan-z-v0.8.0/plan-z-0.8.0-windows.zip",
+              "sha256": "12fc3c20450a06cd583cb9ecf6039e59bfc8b3b3d836ac98d630f028048fd78d",
+              "size": 75602376,
+              "exe": "PlanZ.exe",
+              "args": ""
+            },
+            {
+              "platform": "linux",
+              "url": "https://github.com/Tomas-Arthur/platypus-catalog/releases/download/plan-z-v0.8.0/plan-z-0.8.0-linux.zip",
+              "sha256": "f1b3f0229bb2c852be5319bf44e0e7b990ab9b80e6e625170d688e987f995a80",
+              "size": 64863811,
+              "exe": "PlanZ.x86_64",
+              "args": ""
+            }
+          ]
+        },
+        {
           "version": "0.4.0",
           "date": "2026-11-14T21:57:22.859007+00:00",
           "notes": "La voie mafieuse : trois types de racket (protection, tripot, contrebande), une armurerie payée en argent sale (silencieux, gilet pare-balles, fusil à pompe), deux nouveaux types de mission (nettoyer la zone, récupérer le butin) et le braquage des planques de la bande. Voie mafieuse rééquilibrée.\n",
