@@ -68,6 +68,29 @@
       "audience": [],
       "releases": [
         {
+          "version": "0.3.0",
+          "date": "2026-11-14T16:37:28.7618911+00:00",
+          "notes": "L'église s'agrandit : 3 niveaux, statue miraculeuse, crypte, bâtiments améliorables (jusqu'à 3 étoiles), et des vicaires qui prêchent pour toi.\n5 démons, 5 épreuves d'exorcisme : rythme, bluff, symboles, pluie de feu, rituel. À essayer depuis l'écran de démarrage (« Essayer un mini-jeu »).\nPactiser avec un démon se négocie (argent, pouvoir, informations) et rend ses épreuves suivantes plus faciles… mais ton âme s'alourdit.\nLa bande chassée de la ville revient. Corrections : un événement ne vole plus le clic quand tu poses un bâtiment.\n",
+          "packages": [
+            {
+              "platform": "windows",
+              "url": "https://github.com/Tomas-Arthur/platypus-catalog/releases/download/plan-z-v0.3.0/plan-z-0.3.0-windows.zip",
+              "sha256": "94380b45781c4a4f342e9bd900d1f54de80b45a08cadf7aa05fa6f5ae589d255",
+              "size": 75522568,
+              "exe": "PlanZ.exe",
+              "args": ""
+            },
+            {
+              "platform": "linux",
+              "url": "https://github.com/Tomas-Arthur/platypus-catalog/releases/download/plan-z-v0.3.0/plan-z-0.3.0-linux.zip",
+              "sha256": "32272cf0bb885b31da2c932c869ee07e0da0442e3b2be3ef3a9fad784f491733",
+              "size": 64784005,
+              "exe": "PlanZ.x86_64",
+              "args": ""
+            }
+          ]
+        },
+        {
           "version": "0.1.2",
           "date": "2026-11-10T17:20:07.8282068+00:00",
           "notes": "Ajout d'un écran Comment jouer (règles du jeu), depuis l'écran de démarrage et la pause.",
