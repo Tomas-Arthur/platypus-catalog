@@ -68,6 +68,29 @@
       "audience": [],
       "releases": [
         {
+          "version": "0.9.0",
+          "date": "2026-11-15T20:07:58.5786604+00:00",
+          "notes": "Plan Z 0.9.0 — d'après vos retours sur les mini-jeux\n- Andras (symboles) : la main ne tremble plus ; ton tracé est noté à sa ressemblance avec le signe.\n- Sermon : les 4 tons toujours dans le même ordre (touches 1 à 4), score affiché.\n- Défendre l'église : la bataille a lieu dans TON église ; avant l'assaut, place hommes de main, barricades et huile, puis protège l'autel.\n- Église : R fait tourner un bâtiment ; clique un bâtiment posé pour le déplacer (gratuit).\n- Le panneau du quartier passe à gauche, sur toute la hauteur.\n",
+          "packages": [
+            {
+              "platform": "windows",
+              "url": "https://github.com/Tomas-Arthur/platypus-catalog/releases/download/plan-z-v0.9.0/plan-z-0.9.0-windows.zip",
+              "sha256": "295016baa221731675bc8037128bac938a433e51db53b74eda8409a2be5bac6c",
+              "size": 88920710,
+              "exe": "PlanZ.exe",
+              "args": ""
+            },
+            {
+              "platform": "linux",
+              "url": "https://github.com/Tomas-Arthur/platypus-catalog/releases/download/plan-z-v0.9.0/plan-z-0.9.0-linux.zip",
+              "sha256": "89dc09794dad63d3f4598f17cda8b6e92d9096f8b978316242b458b819d3df68",
+              "size": 64887295,
+              "exe": "PlanZ.x86_64",
+              "args": ""
+            }
+          ]
+        },
+        {
           "version": "0.8.0",
           "date": "2026-11-14T22:52:39.1004464+00:00",
           "notes": "Grosse mise à jour : défense de l'église par vagues quand l'organisation se rapproche, sermon du dimanche (mini-jeu facultatif), confessions au confessionnal, carnet noir de secrets pour faire pression… et une voie cachée à découvrir en pactisant avec les démons.\n",
