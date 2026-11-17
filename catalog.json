@@ -91,6 +91,29 @@
       "audience": [],
       "releases": [
         {
+          "version": "0.10.0",
+          "date": "2026-11-17T22:23:42.6515602+00:00",
+          "notes": "Plan Z 0.10.0 — les vrais modèles 3D\n- Personnages « jouet » : le prêtre, la bande du Port, l'organisation, tes hommes de main, animés.\n- L'église meublée en 3D (autel, bancs, confessionnal, statue, arrière-salle, crypte), en gestion et pendant la défense.\n- La ville : un style par quartier (port, usines, centre, Butte et son moulin, cité, église Saint-Roch).\n- Décors des missions : caisses, fûts, tables renversées, étagères, sols variés, mallette du butin.\n- Balles traçantes plus lisibles.\n",
+          "packages": [
+            {
+              "platform": "windows",
+              "url": "https://github.com/Tomas-Arthur/platypus-catalog/releases/download/plan-z-v0.10.0/plan-z-0.10.0-windows.zip",
+              "sha256": "c553031b4f8c67f54b97a950048d754613e43c5c5281257bd0823276b3ebc1f8",
+              "size": 76130852,
+              "exe": "PlanZ.exe",
+              "args": ""
+            },
+            {
+              "platform": "linux",
+              "url": "https://github.com/Tomas-Arthur/platypus-catalog/releases/download/plan-z-v0.10.0/plan-z-0.10.0-linux.zip",
+              "sha256": "9497a214a3eade27188a5ff0c49b05d97f786d4b6453d9850a7ed71bc291a167",
+              "size": 65392355,
+              "exe": "PlanZ.x86_64",
+              "args": ""
+            }
+          ]
+        },
+        {
           "version": "0.9.0",
           "date": "2026-11-15T20:07:58.5786604+00:00",
           "notes": "Plan Z 0.9.0 — d'après vos retours sur les mini-jeux\n- Andras (symboles) : la main ne tremble plus ; ton tracé est noté à sa ressemblance avec le signe.\n- Sermon : les 4 tons toujours dans le même ordre (touches 1 à 4), score affiché.\n- Défendre l'église : la bataille a lieu dans TON église ; avant l'assaut, place hommes de main, barricades et huile, puis protège l'autel.\n- Église : R fait tourner un bâtiment ; clique un bâtiment posé pour le déplacer (gratuit).\n- Le panneau du quartier passe à gauche, sur toute la hauteur.\n",
