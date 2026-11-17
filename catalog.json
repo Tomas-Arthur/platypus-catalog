@@ -12,6 +12,29 @@
       "audience": [],
       "releases": [
         {
+          "version": "0.22.0",
+          "date": "2026-11-17T20:08:41.4133076+00:00",
+          "notes": "Mission complète jouable : vole l'objectif dans la salle forte et ramène toute l'équipe à la zone d'extraction.\nNouveau : porter et cacher les corps, les gardes découvrent les corps et réveillent leurs collègues, vol à la tire du badge, porte à badge, vol de l'objectif (maintenir E), conditions de victoire et d'échec (alertes, temps).\nLe voleur remplace la capsule.",
+          "packages": [
+            {
+              "platform": "windows",
+              "url": "https://github.com/Tomas-Arthur/platypus-catalog/releases/download/robbery-101-v0.22.0/robbery-101-0.22.0-windows.zip",
+              "sha256": "4079f8863a6a15c548e5e35ac3a82d7e08c1f917151750bbe03499c90db53921",
+              "size": 75437737,
+              "exe": "Robbery101.exe",
+              "args": ""
+            },
+            {
+              "platform": "linux",
+              "url": "https://github.com/Tomas-Arthur/platypus-catalog/releases/download/robbery-101-v0.22.0/robbery-101-0.22.0-linux.zip",
+              "sha256": "ee5b568855b6ae5dce96158273d5f69be2495c15bddaf165b1dd1dc3793f7f47",
+              "size": 64601056,
+              "exe": "Robbery101.x86_64",
+              "args": ""
+            }
+          ]
+        },
+        {
           "version": "0.17.0",
           "date": "2026-11-11T17:41:46.7783188+00:00",
           "notes": "Jalons 14 à 17 : les gardes voient (cône de vue, lumière) et entendent (bruit des pas).\nSoupçon et fouille (« ? » qui change de couleur), alerte et poursuite (« ! »).\nAssommer un garde par derrière avec F.",
