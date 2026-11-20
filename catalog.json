@@ -12,6 +12,29 @@
       "audience": [],
       "releases": [
         {
+          "version": "0.23.0",
+          "date": "2026-11-20T20:28:39.0626079+00:00",
+          "notes": "Nouveau : un hub commun. En rejoignant l'hôte, on arrive dans le repère.\nLancer une mission : chaque joueur se déclare prêt au tableau de missions (E), et la mission part quand tout le monde est prêt.\nFin de mission : votez « prêt » sur l'écran de fin (E) pour revenir tous ensemble au hub, et relancer.",
+          "packages": [
+            {
+              "platform": "windows",
+              "url": "https://github.com/Tomas-Arthur/platypus-catalog/releases/download/robbery-101-v0.23.0/robbery-101-0.23.0-windows.zip",
+              "sha256": "c9fc26bbd46d4c92924c1b438dbe599aa8cafe3f5b5d1bae70311ddc7067b21d",
+              "size": 75451273,
+              "exe": "Robbery101.exe",
+              "args": ""
+            },
+            {
+              "platform": "linux",
+              "url": "https://github.com/Tomas-Arthur/platypus-catalog/releases/download/robbery-101-v0.23.0/robbery-101-0.23.0-linux.zip",
+              "sha256": "178c872148ee3caffa15836f3b34d0e085712178515375383c47a45f500ea87b",
+              "size": 64614584,
+              "exe": "Robbery101.x86_64",
+              "args": ""
+            }
+          ]
+        },
+        {
           "version": "0.22.0",
           "date": "2026-11-17T20:08:41.4133076+00:00",
           "notes": "Mission complète jouable : vole l'objectif dans la salle forte et ramène toute l'équipe à la zone d'extraction.\nNouveau : porter et cacher les corps, les gardes découvrent les corps et réveillent leurs collègues, vol à la tire du badge, porte à badge, vol de l'objectif (maintenir E), conditions de victoire et d'échec (alertes, temps).\nLe voleur remplace la capsule.",
