@@ -99,7 +99,7 @@
     },
     {
       "id": "plan-z",
-      "name": "Plan Z",
+      "name": "Pray and Pay",
       "description": "Un ancien mafieux devenu faux prêtre. Gestion de ville et d'église façon Tropico, missions de combat vues de dessus, exorcismes en rythme. Prototype.",
       "kind": "game",
       "icon": "images/plan-z-icon.png",
@@ -108,7 +108,7 @@
         "images/plan-z-cover-2.png",
         "images/plan-z-cover-3.png"
       ],
-      "accent": "#B8901F",
+      "accent": "#A8323E",
       "category": "ia",
       "surveys": [],
       "audience": [],
