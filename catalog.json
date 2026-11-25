@@ -114,6 +114,29 @@
       "audience": [],
       "releases": [
         {
+          "version": "0.15.0",
+          "date": "2026-11-25T18:36:33.733138+00:00",
+          "notes": "Pray and Pay 0.15.0 (ex-Plan Z) — des parties plus longues\n- Nouveau nom : Pray and Pay. Nouveaux visuels.\n- Sauvegarde : automatique chaque lundi, et depuis le menu pause. « Continuer » sur l'écran de démarrage.\n- La partie en trois actes (la paroisse, le confessionnal, la ville), avec un choix à chaque passage.\n- La ville passe à 12 quartiers : six nouveaux s'ouvrent à l'acte III.\n- Victoires plus exigeantes : 6 quartiers à 80.\n- Et une voie cachée qui va beaucoup plus loin qu'avant… à vous de la trouver.\n",
+          "packages": [
+            {
+              "platform": "windows",
+              "url": "https://github.com/Tomas-Arthur/platypus-catalog/releases/download/plan-z-v0.15.0/plan-z-0.15.0-windows.zip",
+              "sha256": "ad8b7e0ea61f953a7eced59d867cebcf198eda81831a533369d1b8a0472b93ca",
+              "size": 77330234,
+              "exe": "PlanZ.exe",
+              "args": ""
+            },
+            {
+              "platform": "linux",
+              "url": "https://github.com/Tomas-Arthur/platypus-catalog/releases/download/plan-z-v0.15.0/plan-z-0.15.0-linux.zip",
+              "sha256": "83d32e1bb51cb4209671681a3d7b02d2734a7902ab6ca6d36ea0757401dfe406",
+              "size": 66591698,
+              "exe": "PlanZ.x86_64",
+              "args": ""
+            }
+          ]
+        },
+        {
           "version": "0.10.0",
           "date": "2026-11-17T22:23:42.6515602+00:00",
           "notes": "Plan Z 0.10.0 — les vrais modèles 3D\n- Personnages « jouet » : le prêtre, la bande du Port, l'organisation, tes hommes de main, animés.\n- L'église meublée en 3D (autel, bancs, confessionnal, statue, arrière-salle, crypte), en gestion et pendant la défense.\n- La ville : un style par quartier (port, usines, centre, Butte et son moulin, cité, église Saint-Roch).\n- Décors des missions : caisses, fûts, tables renversées, étagères, sols variés, mallette du butin.\n- Balles traçantes plus lisibles.\n",
