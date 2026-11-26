@@ -114,6 +114,29 @@
       "audience": [],
       "releases": [
         {
+          "version": "0.17.0",
+          "date": "2026-11-26T18:58:46.42616+00:00",
+          "notes": "Pray and Pay 0.17.0 — les grandes fins\n- Voie Parrain : la guerre des familles. Ton ancienne organisation débarque sur la carte ; alliance (ou trahison) avec la bande du Port, achat du commissaire, du port et du maire, puis l'assaut de la villa du Don.\n- Voie Saint : la canonisation. Trois miracles, vrais ou truqués, sous l'œil de l'avocat du diable… et des photos de toi d'avant.\n- Les anciennes victoires « 6 quartiers à 80 » sont remplacées par ces fins. Une troisième voie, cachée, a aussi la sienne.\n",
+          "packages": [
+            {
+              "platform": "windows",
+              "url": "https://github.com/Tomas-Arthur/platypus-catalog/releases/download/plan-z-v0.17.0/plan-z-0.17.0-windows.zip",
+              "sha256": "7ba1e562d048b967902f1bcc659b985d0f89073f9c41b0595d4b301f1ad73399",
+              "size": 77357374,
+              "exe": "PlanZ.exe",
+              "args": ""
+            },
+            {
+              "platform": "linux",
+              "url": "https://github.com/Tomas-Arthur/platypus-catalog/releases/download/plan-z-v0.17.0/plan-z-0.17.0-linux.zip",
+              "sha256": "aed072a9f0f8262f8c42a627576cb0d74496750b026786f4311b1f2206be3405",
+              "size": 66618839,
+              "exe": "PlanZ.x86_64",
+              "args": ""
+            }
+          ]
+        },
+        {
           "version": "0.15.0",
           "date": "2026-11-25T18:36:33.733138+00:00",
           "notes": "Pray and Pay 0.15.0 (ex-Plan Z) — des parties plus longues\n- Nouveau nom : Pray and Pay. Nouveaux visuels.\n- Sauvegarde : automatique chaque lundi, et depuis le menu pause. « Continuer » sur l'écran de démarrage.\n- La partie en trois actes (la paroisse, le confessionnal, la ville), avec un choix à chaque passage.\n- La ville passe à 12 quartiers : six nouveaux s'ouvrent à l'acte III.\n- Victoires plus exigeantes : 6 quartiers à 80.\n- Et une voie cachée qui va beaucoup plus loin qu'avant… à vous de la trouver.\n",
