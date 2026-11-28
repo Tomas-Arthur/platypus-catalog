@@ -114,6 +114,29 @@
       "audience": [],
       "releases": [
         {
+          "version": "0.19.0",
+          "date": "2026-11-28T15:01:01.1219898+00:00",
+          "notes": "Pray and Pay 0.19.0 : l'argent et les armes\n- Moins d'argent facile : plafond de fidèles par quartier, dîme de l'évêché (20 %), entretien de l'église chaque samedi, œuvres de charité.\n- Les affaires du parrain (argent sale) : façades pour blanchir, prime à l'équipe, pots-de-vin, contrats, générosité dans les quartiers.\n- Armurerie : Thompson et voiture blindée ; nouvelles fournitures (cocktails Molotov, munitions en plus).\n- Avant une mission : choix de l'arme longue ; le silencieux ne va que sur le pistolet.\n- Munitions limitées : chargeur de 10 au pistolet (E pour recharger), réserves du fusil et de la Thompson, boîtes lâchées par les ennemis.\n- Cartes de combat deux fois plus grandes, avec plus d'ennemis.\n",
+          "packages": [
+            {
+              "platform": "windows",
+              "url": "https://github.com/Tomas-Arthur/platypus-catalog/releases/download/plan-z-v0.19.0/plan-z-0.19.0-windows.zip",
+              "sha256": "32d24c4834c65a186b2d48de676a27e4b27a7cd582fa917cfdf53c73784d5c1d",
+              "size": 101317466,
+              "exe": "PlanZ.exe",
+              "args": ""
+            },
+            {
+              "platform": "linux",
+              "url": "https://github.com/Tomas-Arthur/platypus-catalog/releases/download/plan-z-v0.19.0/plan-z-0.19.0-linux.zip",
+              "sha256": "74b1e8b4f3b9ebb85cd881af3bcc021d6e2566f2af25c2b233b54cc7bd8ae9dd",
+              "size": 90578933,
+              "exe": "PlanZ.x86_64",
+              "args": ""
+            }
+          ]
+        },
+        {
           "version": "0.18.0",
           "date": "2026-11-28T11:38:40.4632789+00:00",
           "notes": "Pray and Pay 0.18.0 : le son et les fournitures\n- Musiques jazz de Kevin MacLeod (titre, ville, tension, église, gloire, combat, mystère, enfer) et bruitages ; volumes réglables (bouton « Son »).\n- Fournitures avant chaque mission ou exorcisme : gilet jetable, guetteur graissé, eau bénite, crucifix.\n- Combat : plus de mort à l'apparition (2,5 s de répit, ennemis placés loin et hors de vue).\n- Pluie de feu (Abaddon) : on esquive seulement, son emprise s'use tant qu'on tient.\n- Les bâtiments de l'église regardent la nef, les bancs l'autel.\n- Acte III : plus de « Les enfers » pour qui est déjà l'agent des démons.\n",
