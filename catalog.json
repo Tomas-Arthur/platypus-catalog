@@ -114,6 +114,29 @@
       "audience": [],
       "releases": [
         {
+          "version": "0.18.0",
+          "date": "2026-11-28T11:38:40.4632789+00:00",
+          "notes": "Pray and Pay 0.18.0 : le son et les fournitures\n- Musiques jazz de Kevin MacLeod (titre, ville, tension, église, gloire, combat, mystère, enfer) et bruitages ; volumes réglables (bouton « Son »).\n- Fournitures avant chaque mission ou exorcisme : gilet jetable, guetteur graissé, eau bénite, crucifix.\n- Combat : plus de mort à l'apparition (2,5 s de répit, ennemis placés loin et hors de vue).\n- Pluie de feu (Abaddon) : on esquive seulement, son emprise s'use tant qu'on tient.\n- Les bâtiments de l'église regardent la nef, les bancs l'autel.\n- Acte III : plus de « Les enfers » pour qui est déjà l'agent des démons.\n",
+          "packages": [
+            {
+              "platform": "windows",
+              "url": "https://github.com/Tomas-Arthur/platypus-catalog/releases/download/plan-z-v0.18.0/plan-z-0.18.0-windows.zip",
+              "sha256": "a8e7d1a2f12b34f9ff9e3014bb8b6f787382b45c573471fc04561556b10adfcc",
+              "size": 101294600,
+              "exe": "PlanZ.exe",
+              "args": ""
+            },
+            {
+              "platform": "linux",
+              "url": "https://github.com/Tomas-Arthur/platypus-catalog/releases/download/plan-z-v0.18.0/plan-z-0.18.0-linux.zip",
+              "sha256": "2cab63b3bad697ccefdef83c45e47e0ff68242c6e617146b575a65fad4b6dabe",
+              "size": 90556060,
+              "exe": "PlanZ.x86_64",
+              "args": ""
+            }
+          ]
+        },
+        {
           "version": "0.17.0",
           "date": "2026-11-26T18:58:46.42616+00:00",
           "notes": "Pray and Pay 0.17.0 — les grandes fins\n- Voie Parrain : la guerre des familles. Ton ancienne organisation débarque sur la carte ; alliance (ou trahison) avec la bande du Port, achat du commissaire, du port et du maire, puis l'assaut de la villa du Don.\n- Voie Saint : la canonisation. Trois miracles, vrais ou truqués, sous l'œil de l'avocat du diable… et des photos de toi d'avant.\n- Les anciennes victoires « 6 quartiers à 80 » sont remplacées par ces fins. Une troisième voie, cachée, a aussi la sienne.\n",
